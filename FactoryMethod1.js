@@ -1,3 +1,5 @@
+//FUNCTIONS THAT MANUFACTURE AND RETURN OBJECTS ARE CALLED FACTORY FUNCTIONS
+
 // just a made up example to demonstrate object creation & inheritance.
 let sharedIphone1Functionalities = {};
 
